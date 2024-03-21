@@ -35,6 +35,7 @@ class Task{
         return [
             "id"=>$this->id,
             "description"=>$this->description,
+            "ratio"=>$this->ratio,
             "status"=>$this->status,
             "type"=>$this->type
         ];

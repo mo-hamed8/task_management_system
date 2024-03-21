@@ -2,7 +2,7 @@
 
 return [
     "database"=>[
-        "dbname"=>"laracasts",
+        "dbname"=>"task_management_system",
         "username"=>"root",
         "password"=>"",
         "servername"=>"localhost"
