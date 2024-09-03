@@ -37,5 +37,5 @@ To get started with the system, install the required dependencies and follow the
 
 1. **Clone the Project**:
    ```bash
-   git clone https://github.com/username/task-management.git
+   git clone https://github.com/mo-hamed8/task_management_system.git
    cd task-management
