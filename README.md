@@ -13,7 +13,13 @@ The Task Management System is a flexible web application that allows users to ma
 
 ## Technologies Used
 
-- **Laravel**: The core framework used for developing the application.
+- **Laravel**: The core PHP framework used for developing the application.
+  - **Eloquent ORM**: For interacting with the database using an object-oriented approach.
+  - **Blade**: Laravel's templating engine for building dynamic views.
+  - **Laravel Queues**: For handling background tasks, such as sending scheduled notifications.
+  - **Laravel Scheduler**: To schedule and automate tasks within the application.
+  - **Laravel Policies**: To manage authorization logic and access control.
+  - **Laravel Notifications**: For sending various types of notifications, including email.
 - **MySQL**: The database used for storing data.
 - **Tailwind CSS**: Used for designing a modern and simple user interface.
 
